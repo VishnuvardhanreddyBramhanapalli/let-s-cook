@@ -1,0 +1,6 @@
+com.example.recipeapp.test.app-core-1.5.0-0 C:\Users\USER\.gradle\caches\transforms-4\bb64aed271f9f7a63f4973c91586b73c\transformed\core-1.5.0\res
+com.example.recipeapp.test.app-annotation-experimental-1.4.0-1 C:\Users\USER\.gradle\caches\transforms-4\eb2220a6fe4012a381928c3f963396e3\transformed\annotation-experimental-1.4.0\res
+com.example.recipeapp.test.app-androidTest-2 C:\recipe App 1\flutter_projects\app\build\generated\res\resValues\androidTest\debug
+com.example.recipeapp.test.app-mergeDebugAndroidTestResources-3 C:\recipe App 1\flutter_projects\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.recipeapp.test.app-mergeDebugAndroidTestResources-4 C:\recipe App 1\flutter_projects\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.recipeapp.test.app-debugAndroidTest-5 C:\recipe App 1\flutter_projects\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

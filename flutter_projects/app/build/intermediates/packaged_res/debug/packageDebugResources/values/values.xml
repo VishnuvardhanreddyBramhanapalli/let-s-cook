@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="black_light">#1E000000</color>
+    <color name="blue">#459DE4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#019267</color>
+    <color name="purple_700">#019267</color>
+    <color name="red">#FF0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Lets Cook</string>
+    <string name="default_web_client_id" translatable="false">291099503435-ijoouar095q6sd3aba962kh26keoe596.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">291099503435</string>
+    <string name="google_api_key" translatable="false">AIzaSyBI3iDFn0Z0i7PSoitCH3LC7SP6lMdLTB0</string>
+    <string name="google_app_id" translatable="false">1:291099503435:android:f0fb12cebecb4d0c6916ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBI3iDFn0Z0i7PSoitCH3LC7SP6lMdLTB0</string>
+    <string name="google_storage_bucket" translatable="false">my-application-23949.appspot.com</string>
+    <string name="project_id" translatable="false">my-application-23949</string>
+    <style name="Base.Theme.RecipeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/purple_500</item>
+    </style>
+    <style name="Theme.RecipeApp" parent="Base.Theme.RecipeApp"/>
+    <style name="my_style">
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">85dp</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:textColor">#f80000</item>
+
+    </style>
+</resources>
